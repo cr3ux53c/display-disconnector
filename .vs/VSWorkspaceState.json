@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ScreenHalt"
+    "\\display-unmounter"
   ],
+  "SelectedNode": "\\display-unmounter\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
